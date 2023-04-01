@@ -2,7 +2,7 @@
 
 import pandas as pd
 import requests
-from ortak import *
+from epys.ortak import *
 
 
 # Genel Değişkenler

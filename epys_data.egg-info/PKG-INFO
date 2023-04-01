@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: epys-data
-Version: 0.0.1
+Version: 0.0.3
 Summary: A python library created to extract data from EPİAŞ's epys services.
 Author: Berkay Akpınar
 Author-email: <brky45@gmail.com>
